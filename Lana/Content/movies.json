@@ -1,0 +1,106 @@
+[
+    {
+        "id": "m1",
+        "movieTitle": "The Pursuit of Happyness",
+        "sceneTitle": "Never let someone tell you...",
+        "dialogue": "Don't ever let somebody tell you you can't do something. Not even me. You got a dream, you gotta protect it.",
+        "translation": "Никогда не позволяй кому-то говорить тебе, что ты не можешь что-то сделать. Даже мне. Если у тебя есть мечта — ты должен её защищать.",
+        "expressions": [
+            { "id": "e1", "phrase": "Don't ever let", "meaning": "Никогда не позволяй" },
+            { "id": "e2", "phrase": "You gotta protect it", "meaning": "Ты должен её защищать (gotta = have got to)" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 «Gotta» и «gonna» — сокращения, типичные для неформальной разговорной речи. В письменном английском их не используют, но вы будете слышать их в каждом американском фильме. Фильм основан на реальной истории Криса Гарднера — образец «American Dream» (американской мечты), ценности, глубоко укоренившейся в американской культуре."
+    },
+    {
+        "id": "m2",
+        "movieTitle": "The Intern",
+        "sceneTitle": "You're never wrong",
+        "dialogue": "You are never wrong to do the right thing. Musicians don't retire — they stop when there's no more music in them.",
+        "translation": "Ты никогда не ошибаешься, когда поступаешь правильно. Музыканты не уходят на пенсию — они останавливаются, когда в них больше нет музыки.",
+        "expressions": [
+            { "id": "e3", "phrase": "do the right thing", "meaning": "поступить правильно" },
+            { "id": "e4", "phrase": "there's no more music in them", "meaning": "в них больше нет музыки (метафора)" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 В американской рабочей культуре слово «retire» (выйти на пенсию) несёт позитивный смысл — результат труда всей жизни. Выражение «do the right thing» — устойчивый моральный принцип в английской речи, аналог русского «поступить по совести»."
+    },
+    {
+        "id": "m3",
+        "movieTitle": "Forrest Gump",
+        "sceneTitle": "Box of chocolates",
+        "dialogue": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+        "translation": "Мама всегда говорила, что жизнь — как коробка конфет. Никогда не знаешь, что тебе достанется.",
+        "expressions": [
+            { "id": "e5", "phrase": "you're gonna get", "meaning": "тебе достанется (gonna = going to)" },
+            { "id": "e6", "phrase": "Mama always said", "meaning": "Мама всегда говорила (Past Simple для привычного действия)" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 Эта фраза стала одной из самых узнаваемых цитат в американской культуре. «Mama» (а не «Mom») — характерно для Юга США (Southern English). В Великобритании говорят «Mum». Слово «chocolates» (во мн.ч.) означает «конфеты в коробке», а не плитку шоколада."
+    },
+    {
+        "id": "m4",
+        "movieTitle": "Dead Poets Society",
+        "sceneTitle": "Carpe Diem",
+        "dialogue": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+        "translation": "Карпе дием. Лови момент, мальчики. Сделайте свою жизнь необыкновенной.",
+        "expressions": [
+            { "id": "e7", "phrase": "Seize the day", "meaning": "Лови момент, используй день по максимуму" },
+            { "id": "e8", "phrase": "Make your lives extraordinary", "meaning": "Сделайте свою жизнь необыкновенной" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 «Carpe diem» — латинская фраза, широко используемая в английской речи как заимствование. Английский язык активно использует латинские и французские выражения (e.g. «et cetera», «status quo», «bon voyage»). Фраза «Make your lives extraordinary» использует imperative (повелительное наклонение) для вдохновения — типичный приём в англоязычной риторике."
+    },
+    {
+        "id": "m5",
+        "movieTitle": "Good Will Hunting",
+        "sceneTitle": "It's not your fault",
+        "dialogue": "It's not your fault. It's not your fault. Do you hear me? It's not your fault.",
+        "translation": "Это не твоя вина. Это не твоя вина. Ты слышишь меня? Это не твоя вина.",
+        "expressions": [
+            { "id": "e9", "phrase": "It's not your fault", "meaning": "Это не твоя вина" },
+            { "id": "e10", "phrase": "Do you hear me?", "meaning": "Ты слышишь меня? (риторический вопрос для акцента)" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 Повторение фраз в английской речи — мощный риторический инструмент (anaphora). «Do you hear me?» — не буквальный вопрос, а способ убедиться, что слова дошли до человека. В американской психологической культуре открыто говорить о вине и ответственности — норма и признак эмоциональной зрелости."
+    },
+    {
+        "id": "m6",
+        "movieTitle": "Rocky Balboa",
+        "sceneTitle": "How hard you can get hit",
+        "dialogue": "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. That's how winning is done!",
+        "translation": "Дело не в том, как сильно ты бьёшь. А в том, как сильно ты можешь получить удар и продолжать двигаться вперёд. Вот как достигают победы!",
+        "expressions": [
+            { "id": "e11", "phrase": "It ain't about", "meaning": "Дело не в том (ain't = is not, неформально)" },
+            { "id": "e12", "phrase": "keep moving forward", "meaning": "продолжать двигаться вперёд" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 «Ain't» — нестандартная разговорная форма (= am not / is not / are not / have not). Широко используется в американском разговорном языке, особенно в рабочей среде и спорте. В формальном письме его не используют. Спортивные метафоры («hit», «winning») очень популярны в деловой и мотивационной речи США."
+    },
+    {
+        "id": "m7",
+        "movieTitle": "The Shawshank Redemption",
+        "sceneTitle": "Get busy living",
+        "dialogue": "Get busy living, or get busy dying. Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+        "translation": "Либо займись жизнью, либо займись смертью. Надежда — это хорошая вещь, может быть, лучшая из вещей, и ничто хорошее никогда не умирает.",
+        "expressions": [
+            { "id": "e13", "phrase": "Get busy living", "meaning": "Займись жизнью / начни жить по-настоящему" },
+            { "id": "e14", "phrase": "no good thing ever dies", "meaning": "ничто хорошее никогда не умирает" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 «Get busy + gerund» — устойчивая американская идиома («get busy working», «get busy studying»). В американской культуре «hope» (надежда) — ключевая ценность, часто встречается в политических речах и литературе. Фраза «the best of things» использует superlative (превосходную степень) для максимального эффекта."
+    },
+    {
+        "id": "m8",
+        "movieTitle": "The Wolf of Wall Street",
+        "sceneTitle": "Act as if",
+        "dialogue": "Act as if you are the most successful person in the room. Act as if you have all the confidence in the world.",
+        "translation": "Веди себя так, как будто ты самый успешный человек в комнате. Веди себя так, как будто у тебя есть вся уверенность мира.",
+        "expressions": [
+            { "id": "e15", "phrase": "Act as if", "meaning": "Веди себя так, как будто... (притворись что)" },
+            { "id": "e16", "phrase": "all the confidence in the world", "meaning": "вся уверенность мира (гипербола)" }
+        ],
+        "audioFileName": null,
+        "cultureNote": "🌍 «Act as if» — популярная фраза в американской культуре саморазвития (self-help). Гиперболы («all the... in the world», «the biggest», «the best ever») — характерная черта американской речи. В британском английском предпочитают более сдержанные выражения: «rather good» вместо «absolutely amazing»."
+    }
+]

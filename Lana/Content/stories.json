@@ -1,0 +1,250 @@
+[
+  {
+    "id": "story_a1",
+    "title": "A Coffee Morning",
+    "subtitle": "A simple morning routine",
+    "cefrLevel": "A1",
+    "colorHex": "#A8D5A2",
+    "iconSystemName": "cup.and.saucer.fill",
+    "paragraphs": [
+      {
+        "id": "a1_p1",
+        "text": "Every morning, Anna wakes up at seven o'clock. She goes to the kitchen and makes coffee. The coffee is hot and smells good.",
+        "highlightedWords": [
+          { "word": "wakes up", "definition": "stops sleeping and opens her eyes", "translation": "просыпается" },
+          { "word": "kitchen", "definition": "the room where you cook food", "translation": "кухня" }
+        ]
+      },
+      {
+        "id": "a1_p2",
+        "text": "Anna sits at the table. She drinks her coffee slowly and reads the news on her phone. It is a quiet morning.",
+        "highlightedWords": [
+          { "word": "slowly", "definition": "not fast, taking a lot of time", "translation": "медленно" },
+          { "word": "quiet", "definition": "with little noise, calm", "translation": "тихий" }
+        ]
+      },
+      {
+        "id": "a1_p3",
+        "text": "Her cat, Milo, jumps on the table. Anna laughs and gives Milo some milk. They are both happy.",
+        "highlightedWords": [
+          { "word": "jumps", "definition": "moves up quickly with the legs", "translation": "прыгает" },
+          { "word": "laughs", "definition": "makes a happy sound when something is funny", "translation": "смеётся" }
+        ]
+      },
+      {
+        "id": "a1_p4",
+        "text": "At eight o'clock, Anna gets dressed and leaves the house. She walks to work. The morning is sunny and warm.",
+        "highlightedWords": [
+          { "word": "gets dressed", "definition": "puts on clothes", "translation": "одевается" },
+          { "word": "sunny", "definition": "bright with sunlight", "translation": "солнечный" }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "a1_q1",
+        "question": "What time does Anna wake up?",
+        "options": ["Six o'clock", "Seven o'clock", "Eight o'clock", "Nine o'clock"],
+        "correctIndex": 1
+      },
+      {
+        "id": "a1_q2",
+        "question": "What does Anna give to her cat Milo?",
+        "options": ["Coffee", "Water", "Milk", "Food"],
+        "correctIndex": 2
+      },
+      {
+        "id": "a1_q3",
+        "question": "How does Anna go to work?",
+        "options": ["By bus", "By car", "By train", "She walks"],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "story_a2",
+    "title": "Lost in London",
+    "subtitle": "A tourist finds her way",
+    "cefrLevel": "A2",
+    "colorHex": "#B5D8F7",
+    "iconSystemName": "map.fill",
+    "paragraphs": [
+      {
+        "id": "a2_p1",
+        "text": "Sofia arrived in London for the first time. She was excited but also a little nervous. She had a map and a list of places she wanted to visit.",
+        "highlightedWords": [
+          { "word": "arrived", "definition": "reached a place after travelling", "translation": "прибыла" },
+          { "word": "nervous", "definition": "worried and a little afraid", "translation": "нервничала" }
+        ]
+      },
+      {
+        "id": "a2_p2",
+        "text": "On her first morning, Sofia took the Underground to get to the city centre. She got confused and took the wrong train. She ended up in East London instead of Westminster.",
+        "highlightedWords": [
+          { "word": "Underground", "definition": "the London metro system", "translation": "метро" },
+          { "word": "confused", "definition": "unable to understand or think clearly", "translation": "запуталась" }
+        ]
+      },
+      {
+        "id": "a2_p3",
+        "text": "A friendly local noticed she looked lost. He explained the route and showed her which line to take. Sofia thanked him and got back on the right train.",
+        "highlightedWords": [
+          { "word": "local", "definition": "a person who lives in that area", "translation": "местный житель" },
+          { "word": "route", "definition": "the path you take to reach a place", "translation": "маршрут" }
+        ]
+      },
+      {
+        "id": "a2_p4",
+        "text": "By noon, Sofia was standing in front of Big Ben. She smiled and took a photo. Getting lost had taken extra time, but she had also discovered a lovely street market along the way.",
+        "highlightedWords": [
+          { "word": "discovered", "definition": "found something for the first time", "translation": "обнаружила" },
+          { "word": "market", "definition": "a place where people buy and sell things", "translation": "рынок" }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "a2_q1",
+        "question": "Why did Sofia end up in East London?",
+        "options": ["She wanted to go there", "She took the wrong train", "The map was wrong", "The train was cancelled"],
+        "correctIndex": 1
+      },
+      {
+        "id": "a2_q2",
+        "question": "Who helped Sofia find the right route?",
+        "options": ["A police officer", "A tour guide", "A friendly local", "Her friend"],
+        "correctIndex": 2
+      },
+      {
+        "id": "a2_q3",
+        "question": "What positive thing happened because Sofia got lost?",
+        "options": ["She met a new friend", "She discovered a street market", "She saved money", "She arrived early"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "id": "story_b1",
+    "title": "The Job Interview",
+    "subtitle": "Nerves, preparation, and success",
+    "cefrLevel": "B1",
+    "colorHex": "#F7E0A2",
+    "iconSystemName": "briefcase.fill",
+    "paragraphs": [
+      {
+        "id": "b1_p1",
+        "text": "Marcus had been applying for jobs for three months when he finally received an interview invitation from a marketing agency. He was thrilled, but also terrified. His last interview had gone terribly wrong.",
+        "highlightedWords": [
+          { "word": "applying", "definition": "formally requesting a job or position", "translation": "подавал заявки" },
+          { "word": "terrified", "definition": "extremely frightened", "translation": "был в ужасе" }
+        ]
+      },
+      {
+        "id": "b1_p2",
+        "text": "This time, he decided to prepare thoroughly. He researched the company, practised common interview questions in front of a mirror, and even asked a friend to do a mock interview with him.",
+        "highlightedWords": [
+          { "word": "thoroughly", "definition": "completely and with great attention to detail", "translation": "тщательно" },
+          { "word": "mock", "definition": "done for practice, not for real", "translation": "тренировочный" }
+        ]
+      },
+      {
+        "id": "b1_p3",
+        "text": "On the day of the interview, Marcus dressed smartly and arrived ten minutes early. He greeted the receptionist warmly and took a few deep breaths while waiting. When his name was called, he walked in with a confident smile.",
+        "highlightedWords": [
+          { "word": "receptionist", "definition": "a person who greets visitors at a front desk", "translation": "секретарь на ресепшне" },
+          { "word": "confident", "definition": "feeling sure about yourself", "translation": "уверенный" }
+        ]
+      },
+      {
+        "id": "b1_p4",
+        "text": "The interview lasted forty-five minutes. Marcus answered every question clearly and gave specific examples from his past experience. At the end, the interviewer said, 'We'll be in touch.' Three days later, Marcus got the job offer.",
+        "highlightedWords": [
+          { "word": "specific", "definition": "clear and detailed, not vague", "translation": "конкретный" },
+          { "word": "offer", "definition": "a formal proposal to give someone something", "translation": "предложение" }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "b1_q1",
+        "question": "How long had Marcus been job hunting before the interview?",
+        "options": ["One month", "Two months", "Three months", "Six months"],
+        "correctIndex": 2
+      },
+      {
+        "id": "b1_q2",
+        "question": "What did Marcus do to prepare for the interview?",
+        "options": ["He read a book about marketing", "He researched the company and practised with a friend", "He called the interviewer in advance", "He wore his best suit"],
+        "correctIndex": 1
+      },
+      {
+        "id": "b1_q3",
+        "question": "How long did the interview last?",
+        "options": ["Fifteen minutes", "Thirty minutes", "Forty-five minutes", "An hour"],
+        "correctIndex": 2
+      }
+    ]
+  },
+  {
+    "id": "story_b2",
+    "title": "Culture Shock",
+    "subtitle": "Adapting to life abroad",
+    "cefrLevel": "B2",
+    "colorHex": "#D4A8F7",
+    "iconSystemName": "globe.europe.africa.fill",
+    "paragraphs": [
+      {
+        "id": "b2_p1",
+        "text": "When Yuki moved from Tokyo to Berlin, she anticipated a period of adjustment. What she hadn't expected was how profoundly the experience would challenge her sense of identity. In Japan, blending in was a virtue; in Berlin, standing out was celebrated.",
+        "highlightedWords": [
+          { "word": "anticipated", "definition": "expected something to happen", "translation": "ожидала" },
+          { "word": "profoundly", "definition": "in a deep and significant way", "translation": "глубоко, коренным образом" }
+        ]
+      },
+      {
+        "id": "b2_p2",
+        "text": "The directness of Germans initially struck her as rude. Colleagues gave blunt feedback in meetings without sugarcoating their opinions. It took Yuki several weeks to realise that this was not hostility — it was simply a different cultural framework for honesty.",
+        "highlightedWords": [
+          { "word": "blunt", "definition": "very direct and honest, sometimes to the point of being impolite", "translation": "прямолинейный" },
+          { "word": "sugarcoating", "definition": "making something unpleasant seem nicer than it is", "translation": "приукрашивание" }
+        ]
+      },
+      {
+        "id": "b2_p3",
+        "text": "Over time, Yuki developed what psychologists call a 'bicultural identity' — she no longer felt compelled to choose between her Japanese roots and her new European life. She began to see the world through two cultural lenses simultaneously, which made her more empathetic and adaptable.",
+        "highlightedWords": [
+          { "word": "compelled", "definition": "forced to do something", "translation": "вынужденная" },
+          { "word": "empathetic", "definition": "able to understand and share other people's feelings", "translation": "эмпатичная" }
+        ]
+      },
+      {
+        "id": "b2_p4",
+        "text": "Two years later, Yuki was offered a role leading cross-cultural projects at her company. Her manager told her that her unique perspective was invaluable. What had once felt like a personal struggle had become her greatest professional asset.",
+        "highlightedWords": [
+          { "word": "invaluable", "definition": "extremely useful, beyond price", "translation": "бесценный" },
+          { "word": "asset", "definition": "a valuable quality or skill", "translation": "актив, преимущество" }
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "id": "b2_q1",
+        "question": "What cultural difference surprised Yuki most about Germany?",
+        "options": ["The food", "The weather", "The directness of people", "The public transport"],
+        "correctIndex": 2
+      },
+      {
+        "id": "b2_q2",
+        "question": "What is a 'bicultural identity' as described in the story?",
+        "options": ["Speaking two languages fluently", "Feeling comfortable with two cultural frameworks", "Having parents from two countries", "Working in two countries at once"],
+        "correctIndex": 1
+      },
+      {
+        "id": "b2_q3",
+        "question": "How did Yuki's experience abroad affect her career?",
+        "options": ["It slowed down her career", "It had no effect", "She lost her job", "She was offered a role in cross-cultural projects"],
+        "correctIndex": 3
+      }
+    ]
+  }
+]

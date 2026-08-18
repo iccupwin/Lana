@@ -1,0 +1,242 @@
+[
+    {
+        "id": "l1",
+        "title": "Coffee Shop Order",
+        "audioFileName": null,
+        "transcript": "Barista: Hi there! What can I get for you today?\nCustomer: Hi! Could I get a large latte and a blueberry muffin, please?\nBarista: Sure! Would you like any extra shots in your latte?\nCustomer: Yes, one extra shot would be great.\nBarista: Perfect. Can I get a name for the order?\nCustomer: It's Sarah.\nBarista: Great, Sarah! That'll be £5.80. Your order will be ready in a few minutes.",
+        "cultureNote": "🌍 В британских и американских кафе принято давать имя при заказе — не для дружелюбия, а чтобы правильно выдать заказ. «Hi there!» — типичное неформальное приветствие. «That'll be» = «That will be» — сокращение в кассовых ситуациях. Чаевые в кофейнях в Великобритании — по желанию, в США — ожидаются 15–20%.",
+        "questions": [
+            {
+                "id": "l1q1",
+                "text": "What drink does the customer order?",
+                "options": ["Tea", "Large latte", "Small coffee", "Cappuccino"],
+                "correctIndex": 1,
+                "explanation": "The customer orders a large latte."
+            },
+            {
+                "id": "l1q2",
+                "text": "How many extra shots does the customer want?",
+                "options": ["None", "One", "Two", "Three"],
+                "correctIndex": 1,
+                "explanation": "The customer says 'one extra shot would be great'."
+            },
+            {
+                "id": "l1q3",
+                "text": "How much does the order cost?",
+                "options": ["£4.50", "£5.00", "£5.80", "£6.00"],
+                "correctIndex": 2,
+                "explanation": "The barista says 'That'll be £5.80'."
+            }
+        ]
+    },
+    {
+        "id": "l2",
+        "title": "Airport Announcement",
+        "audioFileName": null,
+        "transcript": "Attention, passengers. Flight BA208 to Paris Charles de Gaulle is now ready for boarding. We invite business class passengers and passengers needing special assistance to board first. All other passengers may board via Gate 12. Please have your boarding pass and passport ready. The gate will close in thirty minutes. Thank you.",
+        "cultureNote": "🌍 В британских и американских аэропортах объявления всегда делают на официальном нейтральном английском (Received Pronunciation в UK, General American в USA). «Boarding pass» (посадочный талон) — в UK. «We invite» — более вежливая, пассивная форма, типичная для официального английского. «May board» (могут пройти) — мягче, чем «can» в официальных ситуациях.",
+        "questions": [
+            {
+                "id": "l2q1",
+                "text": "Which flight number is announced?",
+                "options": ["BA802", "BA208", "BA280", "BA028"],
+                "correctIndex": 1,
+                "explanation": "The announcement says 'Flight BA208'."
+            },
+            {
+                "id": "l2q2",
+                "text": "Who is invited to board first?",
+                "options": ["All passengers", "Economy class", "Business class passengers", "Families with children"],
+                "correctIndex": 2,
+                "explanation": "Business class and passengers needing special assistance board first."
+            },
+            {
+                "id": "l2q3",
+                "text": "When will the gate close?",
+                "options": ["In ten minutes", "In twenty minutes", "In thirty minutes", "In one hour"],
+                "correctIndex": 2,
+                "explanation": "The announcement says 'The gate will close in thirty minutes'."
+            }
+        ]
+    },
+    {
+        "id": "l3",
+        "title": "Job Interview",
+        "audioFileName": null,
+        "transcript": "Interviewer: Good morning! Thank you for coming in today. Please, have a seat.\nCandidate: Good morning. Thank you for having me.\nInterviewer: So, tell me a little about yourself and why you're interested in this role.\nCandidate: Of course. I have three years of experience in marketing, and I've always been passionate about digital campaigns. I applied for this role because your company's approach to creative marketing really aligns with my skills.\nInterviewer: That's great to hear. What would you say is your biggest strength?\nCandidate: I'd say my ability to work under pressure and meet tight deadlines.",
+        "cultureNote": "🌍 В британских и американских интервью «Tell me about yourself» — стандартный открывающий вопрос. Ответ должен быть профессиональным (2–3 предложения). «Thank you for having me» — вежливый ответ на приглашение (не «спасибо, что позвали»). «I'd say» = «I would say» — смягчённое утверждение, типичное для профессионального общения.",
+        "questions": [
+            {
+                "id": "l3q1",
+                "text": "How many years of experience does the candidate have?",
+                "options": ["One year", "Two years", "Three years", "Five years"],
+                "correctIndex": 2,
+                "explanation": "The candidate says 'I have three years of experience in marketing'."
+            },
+            {
+                "id": "l3q2",
+                "text": "What field does the candidate work in?",
+                "options": ["Finance", "Marketing", "Engineering", "Education"],
+                "correctIndex": 1,
+                "explanation": "The candidate mentions experience in marketing and digital campaigns."
+            },
+            {
+                "id": "l3q3",
+                "text": "What does the candidate say is their biggest strength?",
+                "options": ["Being creative", "Working in a team", "Working under pressure and meeting deadlines", "Technical skills"],
+                "correctIndex": 2,
+                "explanation": "The candidate says 'my ability to work under pressure and meet tight deadlines'."
+            }
+        ]
+    },
+    {
+        "id": "l4",
+        "title": "Hotel Check-In",
+        "audioFileName": null,
+        "transcript": "Receptionist: Good evening! Welcome to the Grand Hotel. How can I help you?\nGuest: Hi, I have a reservation. My name is James Wilson.\nReceptionist: Let me check that for you… Yes, Mr Wilson. You have a deluxe double room booked for three nights.\nGuest: That's right. Is it possible to get a room with a sea view?\nReceptionist: Absolutely! We have one available on the fifth floor. Breakfast is included and is served from 7 to 10 a.m. in the main restaurant.\nGuest: Perfect. Could I also get a wake-up call at 7?\nReceptionist: Of course. Here is your key card. Enjoy your stay!",
+        "cultureNote": "🌍 «Is it possible to...?» и «Could I...?» — очень вежливые формы просьбы, типичные для взаимодействия с обслуживающим персоналом. «Absolutely!» — усиленное «да», популярное в британском сервисе. В британских отелях говорят «key card», в старых — «room key». «Enjoy your stay!» — стандартная формула прощания в отелях.",
+        "questions": [
+            {
+                "id": "l4q1",
+                "text": "How many nights is the guest staying?",
+                "options": ["One night", "Two nights", "Three nights", "Four nights"],
+                "correctIndex": 2,
+                "explanation": "The receptionist confirms 'booked for three nights'."
+            },
+            {
+                "id": "l4q2",
+                "text": "When is breakfast served?",
+                "options": ["6–9 a.m.", "7–10 a.m.", "8–11 a.m.", "7–9 a.m."],
+                "correctIndex": 1,
+                "explanation": "The receptionist says breakfast is served from 7 to 10 a.m."
+            },
+            {
+                "id": "l4q3",
+                "text": "What does the guest request at the end?",
+                "options": ["A sea view room", "A late check-out", "A wake-up call at 7", "Extra towels"],
+                "correctIndex": 2,
+                "explanation": "The guest asks for a wake-up call at 7 a.m."
+            }
+        ]
+    },
+    {
+        "id": "l5",
+        "title": "Doctor's Appointment",
+        "audioFileName": null,
+        "transcript": "Doctor: Good afternoon. What brings you in today?\nPatient: Hi, doctor. I've had a terrible headache for the past two days, and I also feel a bit nauseous.\nDoctor: I see. Have you had a fever?\nPatient: I checked this morning — it was 37.8 degrees.\nDoctor: That's slightly elevated. Are you sleeping and drinking enough water?\nPatient: Honestly, I've been quite stressed at work and haven't slept well.\nDoctor: I'd recommend rest, plenty of fluids, and these paracetamol tablets. If the symptoms don't improve in 48 hours, come back and we'll run some tests.",
+        "cultureNote": "🌍 «What brings you in today?» — стандартный вопрос британского врача (мягче чем «What's your problem?»). В Великобритании говорят «paracetamol», в США — «acetaminophen» или «Tylenol». «I see» — слушательский сигнал (не «я вижу», а «я понимаю»). «Run some tests» — разговорное выражение для «провести анализы».",
+        "questions": [
+            {
+                "id": "l5q1",
+                "text": "How long has the patient had a headache?",
+                "options": ["One day", "Two days", "Three days", "A week"],
+                "correctIndex": 1,
+                "explanation": "The patient says 'I've had a terrible headache for the past two days'."
+            },
+            {
+                "id": "l5q2",
+                "text": "What is the patient's temperature?",
+                "options": ["37.2", "37.5", "37.8", "38.5"],
+                "correctIndex": 2,
+                "explanation": "The patient says 'it was 37.8 degrees'."
+            },
+            {
+                "id": "l5q3",
+                "text": "What does the doctor recommend?",
+                "options": ["Surgery", "Rest, fluids, and paracetamol", "Immediate tests", "A specialist appointment"],
+                "correctIndex": 1,
+                "explanation": "The doctor recommends rest, plenty of fluids, and paracetamol tablets."
+            }
+        ]
+    },
+    {
+        "id": "l6",
+        "title": "Weather Forecast",
+        "audioFileName": null,
+        "transcript": "Good morning and welcome to your weekend weather update. Saturday will start off cloudy but the sun should break through by midday, with temperatures reaching up to 18 degrees. However, Sunday is looking much wetter — expect heavy rain throughout the day and strong winds of up to 50 kilometres per hour. Temperatures will drop to around 12 degrees. If you're planning outdoor activities, Saturday afternoon is definitely your best bet. Don't forget your umbrella on Sunday!",
+        "cultureNote": "🌍 Погода — излюбленная тема small talk (лёгкой беседы) в Великобритании. «Your best bet» — разговорное «лучший вариант». В UK используют Celsius (градусы Цельсия) и kilometres — в отличие от США, где Fahrenheit и miles. «Should break through» — типичная неуверенная формулировка британского прогноза: они редко говорят «will be sunny» — предпочитают «should» или «is expected to».",
+        "questions": [
+            {
+                "id": "l6q1",
+                "text": "What will the weather be like on Saturday afternoon?",
+                "options": ["Heavy rain", "Sunny", "Windy", "Snowy"],
+                "correctIndex": 1,
+                "explanation": "The forecast says 'the sun should break through by midday' on Saturday."
+            },
+            {
+                "id": "l6q2",
+                "text": "What is Sunday's forecast?",
+                "options": ["Clear skies", "Light showers", "Heavy rain and strong winds", "Warm and dry"],
+                "correctIndex": 2,
+                "explanation": "Sunday will have heavy rain throughout the day and strong winds."
+            },
+            {
+                "id": "l6q3",
+                "text": "What temperature is expected on Sunday?",
+                "options": ["18 degrees", "15 degrees", "12 degrees", "10 degrees"],
+                "correctIndex": 2,
+                "explanation": "The forecast says 'Temperatures will drop to around 12 degrees' on Sunday."
+            }
+        ]
+    },
+    {
+        "id": "l7",
+        "title": "Restaurant Reservation",
+        "audioFileName": null,
+        "transcript": "Receptionist: Good evening, The Blue Table restaurant. How can I help you?\nCaller: Hi, I'd like to make a reservation for Saturday evening, please.\nReceptionist: Of course! How many people will be dining?\nCaller: There will be four of us.\nReceptionist: What time would you prefer?\nCaller: Around 7:30 if possible.\nReceptionist: Let me check… We have a table available at 7:30. Could I take a name for the reservation?\nCaller: Yes, it's under Mitchell.\nReceptionist: Perfect, Mr Mitchell. Table for four at 7:30 on Saturday. Could I also take a phone number in case we need to reach you?\nCaller: Of course, it's 07945 112 233.",
+        "cultureNote": "🌍 «I'd like to make a reservation» — вежливый стандарт для бронирования по телефону. В Великобритании принято говорить «dining» (более формально) вместо «eating». «It's under [Name]» = «бронирование на имя...» — это стандартная фраза для ресторанов. Британские номера телефонов начинаются с 07 для мобильных, 01/02 для городских.",
+        "questions": [
+            {
+                "id": "l7q1",
+                "text": "How many people is the reservation for?",
+                "options": ["Two", "Three", "Four", "Five"],
+                "correctIndex": 2,
+                "explanation": "The caller says 'There will be four of us'."
+            },
+            {
+                "id": "l7q2",
+                "text": "What time is the reservation?",
+                "options": ["7:00", "7:30", "8:00", "8:30"],
+                "correctIndex": 1,
+                "explanation": "The caller requests 7:30, and the restaurant confirms a table at 7:30."
+            },
+            {
+                "id": "l7q3",
+                "text": "What name is the reservation under?",
+                "options": ["Martin", "Miller", "Mitchell", "Morgan"],
+                "correctIndex": 2,
+                "explanation": "The caller says 'it's under Mitchell'."
+            }
+        ]
+    },
+    {
+        "id": "l8",
+        "title": "Making Plans with a Friend",
+        "audioFileName": null,
+        "transcript": "Amy: Hey! Are you free this weekend?\nBen: Hi Amy! I think so — what did you have in mind?\nAmy: I was thinking we could go to the new art exhibition at the city gallery. It's only on until Sunday.\nBen: Oh, that sounds interesting! When are you thinking of going?\nAmy: How about Saturday morning? We could grab coffee afterwards.\nBen: Saturday morning works for me. Shall we meet at the gallery entrance at 10?\nAmy: Perfect. Oh, and do you know if we need to book tickets in advance?\nBen: I'm not sure — I'll check the website tonight and let you know.",
+        "cultureNote": "🌍 «What did you have in mind?» — мягкий способ спросить о планах. «Grab coffee» — неформальное «выпить кофе» (grab = взять быстро). «Shall we...?» — типично британское приглашение/предложение (в американском чаще «Should we...?» или «Let's...»). «Let you know» — очень частая фраза, означает «сообщу тебе позже». В UK принято заранее бронировать билеты на выставки.",
+        "questions": [
+            {
+                "id": "l8q1",
+                "text": "Where does Amy suggest going?",
+                "options": ["The cinema", "A new restaurant", "An art exhibition", "The park"],
+                "correctIndex": 2,
+                "explanation": "Amy suggests going to the new art exhibition at the city gallery."
+            },
+            {
+                "id": "l8q2",
+                "text": "When will the exhibition end?",
+                "options": ["Friday", "Saturday", "Sunday", "Monday"],
+                "correctIndex": 2,
+                "explanation": "Amy says 'It's only on until Sunday'."
+            },
+            {
+                "id": "l8q3",
+                "text": "What time do they agree to meet?",
+                "options": ["9:00", "9:30", "10:00", "10:30"],
+                "correctIndex": 2,
+                "explanation": "Ben suggests 'Shall we meet at the gallery entrance at 10?' and Amy agrees."
+            }
+        ]
+    }
+]

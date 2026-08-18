@@ -1,0 +1,277 @@
+[
+    {
+        "id": "g1",
+        "title": "Present Simple",
+        "explanation": "Present Simple is used for habits, routines, facts, and permanent situations. With he/she/it we add -s or -es to the verb.",
+        "examples": [
+            "She works in a bank. (habit)",
+            "The sun rises in the east. (fact)",
+            "I usually wake up at 7 a.m. (routine)"
+        ],
+        "russianContrast": "⚠️ Типичная ошибка русских: «Я читаю книги» по-русски — одна форма для привычки И для прямо сейчас. В английском строгое разделение: «I read books» (привычка) и «I am reading» (прямо сейчас). Никогда не говорите «I am reading every day» — только «I read every day».",
+        "miniQuiz": [
+            {
+                "id": "g1q1",
+                "text": "Choose the correct form: He ___ coffee every morning.",
+                "options": ["drink", "drinks", "drinking", "drank"],
+                "correctIndex": 1,
+                "explanation": "Third person singular (he/she/it) takes -s: drinks."
+            },
+            {
+                "id": "g1q2",
+                "text": "Which sentence uses Present Simple correctly?",
+                "options": ["She is study English.", "She studies English.", "She studying English.", "She studied English now."],
+                "correctIndex": 1,
+                "explanation": "'She studies English' — correct third-person singular present simple."
+            }
+        ]
+    },
+    {
+        "id": "g2",
+        "title": "Past Simple",
+        "explanation": "Past Simple describes completed actions at a specific time in the past. Regular verbs add -ed. Many common verbs are irregular (go→went, buy→bought, see→saw).",
+        "examples": [
+            "They visited London last year.",
+            "I watched a great movie yesterday.",
+            "She went to the gym this morning."
+        ],
+        "russianContrast": "⚠️ В русском прошедшем только 4 формы (-л/-ла/-ло/-ли). В английском сотни неправильных глаголов: go→went, see→saw, buy→bought. Их нельзя угадать — нужно учить! Частые ошибки: «I goed to the shop», «She seed me». Также не забывайте do/did в вопросах: «Did you go?», а не «Went you?»",
+        "miniQuiz": [
+            {
+                "id": "g2q1",
+                "text": "Select the past simple form of 'go':",
+                "options": ["goes", "went", "gone", "going"],
+                "correctIndex": 1,
+                "explanation": "'Went' is the irregular past simple of 'go'."
+            },
+            {
+                "id": "g2q2",
+                "text": "Which sentence is in the Past Simple?",
+                "options": ["I am eating lunch.", "I eat lunch at noon.", "I ate lunch at noon.", "I have eaten lunch."],
+                "correctIndex": 2,
+                "explanation": "'I ate lunch at noon' — 'ate' is the past simple of 'eat'."
+            }
+        ]
+    },
+    {
+        "id": "g3",
+        "title": "Present Continuous",
+        "explanation": "Present Continuous (am/is/are + verb-ing) is used for actions happening RIGHT NOW, temporary situations, and future plans.",
+        "examples": [
+            "I am studying English right now.",
+            "She is living in London temporarily.",
+            "We are meeting them tomorrow. (future plan)"
+        ],
+        "russianContrast": "⚠️ Ловушка — глаголы состояния (stative verbs): know, love, like, understand, believe, want, need. Их НИКОГДА не используют в Continuous! «I am knowing» — НЕПРАВИЛЬНО, только «I know». В русском нет этого ограничения, поэтому это одна из самых частых ошибок русскоязычных.",
+        "miniQuiz": [
+            {
+                "id": "g3q1",
+                "text": "Which sentence uses Present Continuous?",
+                "options": ["She reads every night.", "She is reading now.", "She read last night.", "She has read it."],
+                "correctIndex": 1,
+                "explanation": "Present Continuous = am/is/are + verb-ing. 'She is reading now' describes an action in progress."
+            },
+            {
+                "id": "g3q2",
+                "text": "Choose the correct form: They ___ football in the park right now.",
+                "options": ["play", "plays", "are playing", "played"],
+                "correctIndex": 2,
+                "explanation": "'Are playing' = Present Continuous, for an action happening now."
+            }
+        ]
+    },
+    {
+        "id": "g4",
+        "title": "Future: Will & Going To",
+        "explanation": "Use WILL for spontaneous decisions, predictions, and offers. Use GOING TO for plans already made and predictions based on evidence you can see.",
+        "examples": [
+            "I'll help you with that! (spontaneous offer)",
+            "I'm going to study medicine next year. (plan)",
+            "Look at those clouds — it's going to rain. (evidence-based prediction)"
+        ],
+        "russianContrast": "⚠️ В русском одно будущее время «буду делать». В английском — два: Will (спонтанное) vs Going to (заранее запланированное). Мнемоника: Going to — у вас уже есть «план в голове». Will — решение принято прямо сейчас. Тест: «I'll get the door!» (только что зазвонил звонок) vs «I'm going to open a business next year» (давно планировал).",
+        "miniQuiz": [
+            {
+                "id": "g4q1",
+                "text": "Choose the correct form: 'The phone is ringing.' — 'I ___ get it!'",
+                "options": ["am going to", "will", "go", "am"],
+                "correctIndex": 1,
+                "explanation": "'Will' is used for a spontaneous decision made at the moment of speaking."
+            },
+            {
+                "id": "g4q2",
+                "text": "Which sentence describes a future plan?",
+                "options": ["I will maybe travel.", "I am going to visit my family next week.", "I travel next week.", "I have traveled."],
+                "correctIndex": 1,
+                "explanation": "'I am going to visit' shows a plan that has already been decided."
+            }
+        ]
+    },
+    {
+        "id": "g5",
+        "title": "Present Perfect",
+        "explanation": "Present Perfect (have/has + past participle) connects the past to the present. Use it for experiences (no specific time), recent events (just/already/yet), and situations that started in the past and continue now.",
+        "examples": [
+            "I have visited Japan twice. (life experience)",
+            "She has just finished the report. (recent action)",
+            "They have lived here for ten years. (ongoing situation)"
+        ],
+        "russianContrast": "⚠️ Это САМОЕ сложное время для русских — в русском нет аналога! «Я видел этот фильм» по-русски, но по-английски: «I have seen this film» (НЕ «I saw this film»!). Золотое правило: если вы называете конкретное время — Past Simple («I saw it yesterday»). Если время НЕ важно — Present Perfect («I have seen it»). «I have seen it yesterday» — ОШИБКА.",
+        "miniQuiz": [
+            {
+                "id": "g5q1",
+                "text": "Fill in: I ___ never tried sushi before.",
+                "options": ["have", "has", "had", "am"],
+                "correctIndex": 0,
+                "explanation": "Present Perfect with 'never' = have/has + past participle. 'I' takes 'have'."
+            },
+            {
+                "id": "g5q2",
+                "text": "Which word is typically used with Present Perfect?",
+                "options": ["yesterday", "last week", "yet", "in 2010"],
+                "correctIndex": 2,
+                "explanation": "'Yet' is used with Present Perfect in questions and negatives (e.g., 'Have you finished yet?')"
+            }
+        ]
+    },
+    {
+        "id": "g6",
+        "title": "Modal Verbs",
+        "explanation": "Modal verbs (can, could, must, should, may, might) add meaning about ability, permission, obligation, or possibility. They are followed by the base form of the verb.",
+        "examples": [
+            "I can speak three languages. (ability)",
+            "You must wear a seatbelt. (strong obligation)",
+            "She should see a doctor. (advice)"
+        ],
+        "russianContrast": "⚠️ В русском «можно» = и can (способность) и may (разрешение). Главные различия: CAN = физически способен («I can swim»); MAY/CAN = разрешение («Can/May I go?»); MUST = строгая обязанность («You must stop»); SHOULD = совет («You should rest»). Частая ошибка: «I must to go» — после модальных глаголов всегда инфинитив БЕЗ «to».",
+        "miniQuiz": [
+            {
+                "id": "g6q1",
+                "text": "Which modal expresses strong obligation?",
+                "options": ["might", "could", "must", "would"],
+                "correctIndex": 2,
+                "explanation": "'Must' expresses strong obligation or necessity."
+            },
+            {
+                "id": "g6q2",
+                "text": "Fill in: You ___ smoke in this building. (not allowed)",
+                "options": ["mustn't", "don't must", "couldn't", "may not to"],
+                "correctIndex": 0,
+                "explanation": "'Mustn't' expresses prohibition — you are not allowed to do something."
+            }
+        ]
+    },
+    {
+        "id": "g7",
+        "title": "First Conditional",
+        "explanation": "First Conditional is used for real and possible situations in the future. Structure: If + Present Simple, will + base verb.",
+        "examples": [
+            "If it rains tomorrow, I will stay home.",
+            "If you study hard, you will pass the exam.",
+            "I will call you if I am late."
+        ],
+        "russianContrast": "⚠️ ГЛАВНАЯ ошибка русских: «If it will rain» — НЕПРАВИЛЬНО! В русском «Если будет дождь» — обе части с будущим. В английском после «if» — Present Simple, НЕ will: «If it rains, I will stay home». Запомните: Will никогда не стоит сразу после if в First Conditional.",
+        "miniQuiz": [
+            {
+                "id": "g7q1",
+                "text": "Choose the correct sentence (First Conditional):",
+                "options": [
+                    "If it will rain, I stay home.",
+                    "If it rains, I will stay home.",
+                    "If it rained, I would stay home.",
+                    "If it rain, I will stay home."
+                ],
+                "correctIndex": 1,
+                "explanation": "First Conditional: If + Present Simple ('rains'), will + base verb ('will stay')."
+            },
+            {
+                "id": "g7q2",
+                "text": "Fill in: If she ___ harder, she will get the job.",
+                "options": ["tries", "will try", "tried", "try"],
+                "correctIndex": 0,
+                "explanation": "After 'if' in First Conditional, use Present Simple: 'tries'."
+            }
+        ]
+    },
+    {
+        "id": "g8",
+        "title": "Comparatives & Superlatives",
+        "explanation": "Use comparatives to compare two things (-er or more + adjective). Use superlatives for the extreme in a group (the -est or the most + adjective). Short adjectives use -er/-est; long adjectives use more/the most.",
+        "examples": [
+            "This test is harder than the last one.",
+            "English is more interesting than I thought.",
+            "She is the best student in the class."
+        ],
+        "russianContrast": "⚠️ Типичная ошибка: «more better», «more easier» — двойное сравнение. В русском «более лучший» тоже звучит неграмотно! Правило: либо -er (для коротких слов: shorter, bigger), либо more (для длинных: more interesting) — НИКОГДА оба сразу. И не забывайте «than»: «She is taller than me», а не «She is taller as me».",
+        "miniQuiz": [
+            {
+                "id": "g8q1",
+                "text": "Choose the correct comparative: This book is ___ than that one. (interesting)",
+                "options": ["more interesting", "interestinger", "most interesting", "the most interesting"],
+                "correctIndex": 0,
+                "explanation": "Long adjectives use 'more' + adjective for comparatives."
+            },
+            {
+                "id": "g8q2",
+                "text": "Fill in the superlative: She is ___ person I know. (kind)",
+                "options": ["kinder", "the kindest", "most kind", "more kindest"],
+                "correctIndex": 1,
+                "explanation": "Short adjectives form the superlative with 'the + -est': 'the kindest'."
+            }
+        ]
+    },
+    {
+        "id": "g9",
+        "title": "Articles: A, An, The",
+        "explanation": "Use A/AN for something mentioned for the first time or when it's not specific. Use THE for something already known, unique things, or when it's clear which one. Use no article for general nouns.",
+        "examples": [
+            "I saw a dog in the park. The dog was very friendly. (first mention → a; second mention → the)",
+            "The sun rises in the east. (unique thing)",
+            "I love music. (general, no article)"
+        ],
+        "russianContrast": "⚠️ В русском нет артиклей — это один из главных вызовов для русских! Ключ к пониманию: A/AN = первый раз упоминаем или собеседник не знает о чём речь. THE = оба знают о чём речь. Без артикля = обобщение. «I bought a car. The car is red.» Мнемоника: A = «какой-то», THE = «тот самый», нет артикля = «вообще».",
+        "miniQuiz": [
+            {
+                "id": "g9q1",
+                "text": "Fill in: She plays ___ piano every evening.",
+                "options": ["a", "an", "the", "—"],
+                "correctIndex": 2,
+                "explanation": "We use 'the' with musical instruments: 'play the piano'."
+            },
+            {
+                "id": "g9q2",
+                "text": "Which sentence is correct?",
+                "options": ["I am a engineer.", "I am an engineer.", "I am the engineer.", "I am engineer."],
+                "correctIndex": 1,
+                "explanation": "Use 'an' before words that start with a vowel sound: 'an engineer'."
+            }
+        ]
+    },
+    {
+        "id": "g10",
+        "title": "Prepositions of Time",
+        "explanation": "AT is used for specific times and some fixed expressions. ON is used for days and dates. IN is used for months, years, seasons, and longer periods.",
+        "examples": [
+            "I wake up at 7 o'clock. / at night / at the weekend",
+            "She was born on Monday. / on 5th March / on New Year's Day",
+            "He started his job in January. / in 2019 / in the summer"
+        ],
+        "russianContrast": "⚠️ В русском «в» используется почти везде: в понедельник, в январе, в 7 часов. В английском — три разных предлога. Мнемоника: AT — точка во времени (7 o'clock, noon, night); ON — конкретный день или дата (Monday, 5th March); IN — период (January, 2019, summer). Частая ошибка: «in Monday», «at January» — оба неправильно.",
+        "miniQuiz": [
+            {
+                "id": "g10q1",
+                "text": "Fill in: The meeting is ___ Monday morning.",
+                "options": ["at", "on", "in", "by"],
+                "correctIndex": 1,
+                "explanation": "Use ON for days: 'on Monday morning'."
+            },
+            {
+                "id": "g10q2",
+                "text": "Fill in: She was born ___ 1995.",
+                "options": ["at", "on", "in", "during"],
+                "correctIndex": 2,
+                "explanation": "Use IN for years: 'born in 1995'."
+            }
+        ]
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "id": "quiz_basic",
+        "title": "Basic Grammar",
+        "description": "Essential grammar for beginners (A1)",
+        "questions": [
+            {
+                "id": "q1",
+                "text": "Choose the correct form: She ___ to school every day.",
+                "options": ["go", "goes", "going", "gone"],
+                "correctIndex": 1,
+                "explanation": "With third person singular (she/he/it) we add -s: goes."
+            },
+            {
+                "id": "q2",
+                "text": "Which word is an adjective?",
+                "options": ["quickly", "beauty", "beautiful", "run"],
+                "correctIndex": 2,
+                "explanation": "'Beautiful' describes a noun, so it is an adjective."
+            },
+            {
+                "id": "q3",
+                "text": "Pick the correct preposition: I'm interested ___ movies.",
+                "options": ["in", "on", "at", "for"],
+                "correctIndex": 0,
+                "explanation": "The correct phrase is 'interested in'."
+            },
+            {
+                "id": "q4",
+                "text": "Choose the correct sentence:",
+                "options": ["I am having 25 years.", "I have 25 years old.", "I am 25 years old.", "I am 25 year old."],
+                "correctIndex": 2,
+                "explanation": "The correct structure is 'I am [number] years old'."
+            },
+            {
+                "id": "q5",
+                "text": "Which is correct? There ___ a cat and two dogs in the garden.",
+                "options": ["are", "is", "be", "were"],
+                "correctIndex": 1,
+                "explanation": "When 'there is/are' precedes a list, the verb agrees with the first noun: 'a cat' is singular, so we use 'is'."
+            }
+        ]
+    },
+    {
+        "id": "quiz_travel",
+        "title": "Travel English",
+        "description": "Useful phrases and vocabulary for trips (A1-A2)",
+        "questions": [
+            {
+                "id": "qt1",
+                "text": "'Where is the nearest station?' — you want to know...",
+                "options": ["the time", "directions", "the price", "the weather"],
+                "correctIndex": 1,
+                "explanation": "You are asking for location or directions to the station."
+            },
+            {
+                "id": "qt2",
+                "text": "Choose the most polite request:",
+                "options": ["Give me water.", "Can I have some water, please?", "Water!", "I want water now."],
+                "correctIndex": 1,
+                "explanation": "'Can I have…, please?' is the most polite and natural form."
+            },
+            {
+                "id": "qt3",
+                "text": "A 'boarding pass' is required when you...",
+                "options": ["check into a hotel", "board a plane", "rent a car", "visit a museum"],
+                "correctIndex": 1,
+                "explanation": "A boarding pass is your ticket to board an aircraft."
+            },
+            {
+                "id": "qt4",
+                "text": "What does 'departure' mean?",
+                "options": ["arriving at a place", "leaving a place", "staying overnight", "booking a ticket"],
+                "correctIndex": 1,
+                "explanation": "'Departure' means the act of leaving a place."
+            },
+            {
+                "id": "qt5",
+                "text": "Fill in: 'Could you ___ me to the nearest pharmacy?'",
+                "options": ["show", "direct", "take", "All of the above are correct"],
+                "correctIndex": 3,
+                "explanation": "All three — show, direct, and take — are correct and natural in this context."
+            }
+        ]
+    },
+    {
+        "id": "quiz_daily",
+        "title": "Daily Life Vocabulary",
+        "description": "Common words for everyday situations (A2)",
+        "questions": [
+            {
+                "id": "qd1",
+                "text": "What is the opposite of 'ancient'?",
+                "options": ["old", "modern", "boring", "huge"],
+                "correctIndex": 1,
+                "explanation": "'Modern' means new or recent — the opposite of ancient."
+            },
+            {
+                "id": "qd2",
+                "text": "Choose the correct word: I need to ___ a dentist appointment.",
+                "options": ["make", "do", "take", "bring"],
+                "correctIndex": 0,
+                "explanation": "We 'make' an appointment, not 'do' it."
+            },
+            {
+                "id": "qd3",
+                "text": "Which word means 'to look for something'?",
+                "options": ["find", "search", "see", "notice"],
+                "correctIndex": 1,
+                "explanation": "'Search' means to actively look for something."
+            },
+            {
+                "id": "qd4",
+                "text": "What does 'affordable' mean?",
+                "options": ["very expensive", "not available", "cheap enough to buy", "difficult to find"],
+                "correctIndex": 2,
+                "explanation": "'Affordable' means priced low enough that people can pay for it."
+            },
+            {
+                "id": "qd5",
+                "text": "Choose the correct collocation: ___ a decision",
+                "options": ["do", "make", "take", "have"],
+                "correctIndex": 1,
+                "explanation": "The correct collocation is 'make a decision'."
+            },
+            {
+                "id": "qd6",
+                "text": "What does 'exhausted' mean?",
+                "options": ["slightly tired", "completely tired", "a bit hungry", "very happy"],
+                "correctIndex": 1,
+                "explanation": "'Exhausted' means extremely tired, much stronger than just 'tired'."
+            }
+        ]
+    },
+    {
+        "id": "quiz_tenses",
+        "title": "English Tenses",
+        "description": "Present and past tenses in action (A2-B1)",
+        "questions": [
+            {
+                "id": "qte1",
+                "text": "Which sentence is in the Present Continuous?",
+                "options": ["She reads every day.", "She is reading right now.", "She has read the book.", "She read it yesterday."],
+                "correctIndex": 1,
+                "explanation": "Present Continuous uses 'is/am/are + verb-ing' to describe actions happening now."
+            },
+            {
+                "id": "qte2",
+                "text": "Fill in: I ___ to Paris twice in my life.",
+                "options": ["went", "go", "have been", "was"],
+                "correctIndex": 2,
+                "explanation": "Present Perfect ('have been') is used for life experiences without a specific time."
+            },
+            {
+                "id": "qte3",
+                "text": "Choose the correct form: When I ___ a child, I loved cartoons.",
+                "options": ["am", "have been", "was", "be"],
+                "correctIndex": 2,
+                "explanation": "Past Simple 'was' is used for states in the past."
+            },
+            {
+                "id": "qte4",
+                "text": "Which is correct? She ___ her homework already.",
+                "options": ["finished", "has finished", "finishes", "is finishing"],
+                "correctIndex": 1,
+                "explanation": "'Already' with Present Perfect: 'has finished' shows the action is complete before now."
+            },
+            {
+                "id": "qte5",
+                "text": "Fill in: I ___ dinner when he called.",
+                "options": ["cooked", "was cooking", "have cooked", "cook"],
+                "correctIndex": 1,
+                "explanation": "Past Continuous 'was cooking' shows an ongoing action interrupted by another ('he called')."
+            }
+        ]
+    },
+    {
+        "id": "quiz_phrasal",
+        "title": "Phrasal Verbs",
+        "description": "Essential phrasal verbs for natural speech (B1)",
+        "questions": [
+            {
+                "id": "qp1",
+                "text": "'Give up' means:",
+                "options": ["to start something new", "to stop trying", "to give a present", "to stand higher"],
+                "correctIndex": 1,
+                "explanation": "'Give up' means to stop trying or to quit."
+            },
+            {
+                "id": "qp2",
+                "text": "'Get over' something means:",
+                "options": ["to climb something", "to recover from it", "to misunderstand", "to hand it in"],
+                "correctIndex": 1,
+                "explanation": "'Get over' means to recover from something, like an illness or a difficult experience."
+            },
+            {
+                "id": "qp3",
+                "text": "Choose the correct phrasal verb: 'Can you ___ this form, please?' (complete it)",
+                "options": ["fill in", "fill up", "fill out", "Both A and C are correct"],
+                "correctIndex": 3,
+                "explanation": "Both 'fill in' and 'fill out' mean to complete a form. Both are correct."
+            },
+            {
+                "id": "qp4",
+                "text": "'Look forward to' means:",
+                "options": ["to look ahead physically", "to be excited about something in the future", "to review the past", "to look carefully"],
+                "correctIndex": 1,
+                "explanation": "'Look forward to' means to feel excited and positive about something coming soon."
+            },
+            {
+                "id": "qp5",
+                "text": "Fill in: 'The meeting was ___ due to bad weather.' (cancelled/postponed)",
+                "options": ["called off", "called in", "called out", "called up"],
+                "correctIndex": 0,
+                "explanation": "'Call off' means to cancel an event."
+            }
+        ]
+    },
+    {
+        "id": "quiz_business",
+        "title": "Business English",
+        "description": "Professional vocabulary for the workplace (B1-B2)",
+        "questions": [
+            {
+                "id": "qb1",
+                "text": "What does 'deadline' mean?",
+                "options": ["a boring meeting", "the last date to complete a task", "a failed project", "a daily report"],
+                "correctIndex": 1,
+                "explanation": "A 'deadline' is the final date or time by which work must be completed."
+            },
+            {
+                "id": "qb2",
+                "text": "Which phrase means 'to start a discussion'?",
+                "options": ["wrap up", "kick off", "back up", "check in"],
+                "correctIndex": 1,
+                "explanation": "'Kick off' means to start something, especially a meeting or project."
+            },
+            {
+                "id": "qb3",
+                "text": "What does 'proactive' mean?",
+                "options": ["reacting after problems occur", "acting in advance to prevent problems", "avoiding work", "working too slowly"],
+                "correctIndex": 1,
+                "explanation": "Being 'proactive' means taking action before problems happen, not waiting."
+            },
+            {
+                "id": "qb4",
+                "text": "Choose the most professional phrase for ending an email:",
+                "options": ["Bye!", "See you later!", "Kind regards,", "Cheers man,"],
+                "correctIndex": 2,
+                "explanation": "'Kind regards' is a standard, professional email sign-off."
+            },
+            {
+                "id": "qb5",
+                "text": "'Bottom line' in business means:",
+                "options": ["the last sentence", "the net profit or the key conclusion", "the bottom of the page", "the lowest salary"],
+                "correctIndex": 1,
+                "explanation": "'Bottom line' refers to net profit on financial statements, or informally, the most important point."
+            }
+        ]
+    },
+    {
+        "id": "quiz_idioms",
+        "title": "Common Idioms",
+        "description": "Popular English idioms and their meanings (B2)",
+        "questions": [
+            {
+                "id": "qi1",
+                "text": "'It's raining cats and dogs' means:",
+                "options": ["animals are falling", "it's raining heavily", "the weather is strange", "it's snowing"],
+                "correctIndex": 1,
+                "explanation": "This idiom means it is raining very heavily."
+            },
+            {
+                "id": "qi2",
+                "text": "'Break the ice' means:",
+                "options": ["to break something frozen", "to start a conversation in an awkward situation", "to feel very cold", "to be unfriendly"],
+                "correctIndex": 1,
+                "explanation": "'Break the ice' means to do or say something to relieve tension in an awkward situation."
+            },
+            {
+                "id": "qi3",
+                "text": "'Hit the nail on the head' means:",
+                "options": ["to injure yourself", "to be exactly right", "to work hard", "to make a mistake"],
+                "correctIndex": 1,
+                "explanation": "To 'hit the nail on the head' means to describe exactly what is causing a situation."
+            },
+            {
+                "id": "qi4",
+                "text": "'Under the weather' means:",
+                "options": ["standing in the rain", "feeling slightly ill", "surprised", "very busy"],
+                "correctIndex": 1,
+                "explanation": "Feeling 'under the weather' means feeling slightly unwell."
+            },
+            {
+                "id": "qi5",
+                "text": "'Bite off more than you can chew' means:",
+                "options": ["eating too much", "taking on more than you can handle", "being very hungry", "speaking with your mouth full"],
+                "correctIndex": 1,
+                "explanation": "This idiom means you have taken on a task that is too big for you to manage."
+            }
+        ]
+    },
+    {
+        "id": "quiz_advanced",
+        "title": "Advanced Vocabulary",
+        "description": "High-level words for fluent speakers (B2-C1)",
+        "questions": [
+            {
+                "id": "qa1",
+                "text": "What does 'ambiguous' mean?",
+                "options": ["very clear", "open to more than one interpretation", "completely wrong", "very ambitious"],
+                "correctIndex": 1,
+                "explanation": "'Ambiguous' means something that can be understood in more than one way."
+            },
+            {
+                "id": "qa2",
+                "text": "Choose the correct word: The speech was ___ — it inspired the entire audience.",
+                "options": ["eloquent", "awkward", "vague", "monotonous"],
+                "correctIndex": 0,
+                "explanation": "'Eloquent' means fluent and persuasive in speaking or writing."
+            },
+            {
+                "id": "qa3",
+                "text": "What does 'meticulous' mean?",
+                "options": ["careless and rushed", "showing great attention to detail", "very loud", "extremely fast"],
+                "correctIndex": 1,
+                "explanation": "'Meticulous' describes someone who is very careful and precise about details."
+            },
+            {
+                "id": "qa4",
+                "text": "'Inevitable' means:",
+                "options": ["unlikely to happen", "certain to happen", "possible but rare", "difficult to believe"],
+                "correctIndex": 1,
+                "explanation": "'Inevitable' means it is impossible to avoid or prevent."
+            },
+            {
+                "id": "qa5",
+                "text": "Which word means 'to make something happen sooner'?",
+                "options": ["postpone", "delay", "accelerate", "suspend"],
+                "correctIndex": 2,
+                "explanation": "'Accelerate' means to increase speed or cause something to happen faster."
+            }
+        ]
+    }
+]

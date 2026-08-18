@@ -1,0 +1,242 @@
+[
+  {
+    "id": "phrase_01", "dayIndex": 1,
+    "phrase": "Break the ice",
+    "translation": "Растопить лёд (снять напряжение)",
+    "exampleSentence": "He told a joke to break the ice at the party.",
+    "exampleTranslation": "Он рассказал анекдот, чтобы растопить лёд на вечеринке.",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_02", "dayIndex": 2,
+    "phrase": "Hit the nail on the head",
+    "translation": "Попасть в точку",
+    "exampleSentence": "You hit the nail on the head with your analysis.",
+    "exampleTranslation": "Ты попал в точку своим анализом.",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_03", "dayIndex": 3,
+    "phrase": "Give up",
+    "translation": "Сдаться / бросить",
+    "exampleSentence": "Don't give up — you're almost there!",
+    "exampleTranslation": "Не сдавайся — ты почти у цели!",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_04", "dayIndex": 4,
+    "phrase": "Bite the bullet",
+    "translation": "Стиснуть зубы (перетерпеть)",
+    "exampleSentence": "I had to bite the bullet and finish the report.",
+    "exampleTranslation": "Мне пришлось стиснуть зубы и закончить отчёт.",
+    "type": "idiom", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_05", "dayIndex": 5,
+    "phrase": "Look forward to",
+    "translation": "С нетерпением ждать",
+    "exampleSentence": "I look forward to meeting you next week.",
+    "exampleTranslation": "Я с нетерпением жду встречи с тобой на следующей неделе.",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_06", "dayIndex": 6,
+    "phrase": "On the fence",
+    "translation": "Занимать нейтральную позицию",
+    "exampleSentence": "She's still on the fence about taking the new job.",
+    "exampleTranslation": "Она всё ещё не определилась насчёт новой работы.",
+    "type": "expression", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_07", "dayIndex": 7,
+    "phrase": "Run out of",
+    "translation": "Закончиться, израсходоваться",
+    "exampleSentence": "We ran out of milk, so I went to the shop.",
+    "exampleTranslation": "У нас закончилось молоко, поэтому я пошёл в магазин.",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_08", "dayIndex": 8,
+    "phrase": "Spill the beans",
+    "translation": "Выдать секрет / проболтаться",
+    "exampleSentence": "Don't spill the beans about the surprise party!",
+    "exampleTranslation": "Не проболтайся о сюрпризной вечеринке!",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_09", "dayIndex": 9,
+    "phrase": "Come across",
+    "translation": "Наткнуться / произвести впечатление",
+    "exampleSentence": "I came across an interesting article yesterday.",
+    "exampleTranslation": "Вчера я наткнулся на интересную статью.",
+    "type": "phrasal_verb", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_10", "dayIndex": 10,
+    "phrase": "Under the weather",
+    "translation": "Чувствовать себя плохо / нездоровиться",
+    "exampleSentence": "She's feeling a bit under the weather today.",
+    "exampleTranslation": "Сегодня она чувствует себя немного нездоровой.",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_11", "dayIndex": 11,
+    "phrase": "Take off",
+    "translation": "Взлетать / резко пойти вверх",
+    "exampleSentence": "His career really took off after the promotion.",
+    "exampleTranslation": "Его карьера резко пошла вверх после повышения.",
+    "type": "phrasal_verb", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_12", "dayIndex": 12,
+    "phrase": "Once in a blue moon",
+    "translation": "Крайне редко / раз в сто лет",
+    "exampleSentence": "I only eat fast food once in a blue moon.",
+    "exampleTranslation": "Я ем фастфуд крайне редко.",
+    "type": "idiom", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_13", "dayIndex": 13,
+    "phrase": "Figure out",
+    "translation": "Разобраться / понять",
+    "exampleSentence": "Can you help me figure out this math problem?",
+    "exampleTranslation": "Можешь помочь мне разобраться с этой задачей?",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_14", "dayIndex": 14,
+    "phrase": "Hit the sack",
+    "translation": "Лечь спать / завалиться спать",
+    "exampleSentence": "It's late — I'm going to hit the sack.",
+    "exampleTranslation": "Уже поздно — я собираюсь ложиться спать.",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_15", "dayIndex": 15,
+    "phrase": "Put off",
+    "translation": "Откладывать на потом",
+    "exampleSentence": "Stop putting off your homework!",
+    "exampleTranslation": "Перестань откладывать домашнюю работу!",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_16", "dayIndex": 16,
+    "phrase": "Costs an arm and a leg",
+    "translation": "Стоит целое состояние",
+    "exampleSentence": "That handbag costs an arm and a leg.",
+    "exampleTranslation": "Эта сумочка стоит целое состояние.",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_17", "dayIndex": 17,
+    "phrase": "Carry on",
+    "translation": "Продолжать",
+    "exampleSentence": "Please carry on with your presentation.",
+    "exampleTranslation": "Пожалуйста, продолжайте вашу презентацию.",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_18", "dayIndex": 18,
+    "phrase": "A blessing in disguise",
+    "translation": "Скрытое благо / не было бы счастья",
+    "exampleSentence": "Losing that job was a blessing in disguise.",
+    "exampleTranslation": "Потеря той работы обернулась скрытым благом.",
+    "type": "expression", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_19", "dayIndex": 19,
+    "phrase": "Bring up",
+    "translation": "Поднять вопрос / воспитать ребёнка",
+    "exampleSentence": "She was brought up in a small town.",
+    "exampleTranslation": "Она выросла в маленьком городе.",
+    "type": "phrasal_verb", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_20", "dayIndex": 20,
+    "phrase": "Bite off more than you can chew",
+    "translation": "Взять на себя больше, чем можешь осилить",
+    "exampleSentence": "Don't bite off more than you can chew with that project.",
+    "exampleTranslation": "Не берись за больше, чем ты можешь осилить в этом проекте.",
+    "type": "idiom", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_21", "dayIndex": 21,
+    "phrase": "Set up",
+    "translation": "Организовать / настроить",
+    "exampleSentence": "Can you help me set up the projector?",
+    "exampleTranslation": "Можешь помочь мне настроить проектор?",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_22", "dayIndex": 22,
+    "phrase": "The ball is in your court",
+    "translation": "Мяч на твоей стороне / твой ход",
+    "exampleSentence": "I've done my part — the ball is in your court.",
+    "exampleTranslation": "Я сделал свою часть — теперь твой ход.",
+    "type": "expression", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_23", "dayIndex": 23,
+    "phrase": "Get along",
+    "translation": "Ладить / находить общий язык",
+    "exampleSentence": "Do you get along with your colleagues?",
+    "exampleTranslation": "Ты ладишь со своими коллегами?",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_24", "dayIndex": 24,
+    "phrase": "Jump on the bandwagon",
+    "translation": "Примкнуть к большинству / следовать моде",
+    "exampleSentence": "Everyone jumped on the bandwagon and bought crypto.",
+    "exampleTranslation": "Все примкнули к тренду и купили криптовалюту.",
+    "type": "idiom", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_25", "dayIndex": 25,
+    "phrase": "Point out",
+    "translation": "Указать / обратить внимание",
+    "exampleSentence": "She pointed out several mistakes in the report.",
+    "exampleTranslation": "Она указала на несколько ошибок в отчёте.",
+    "type": "phrasal_verb", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_26", "dayIndex": 26,
+    "phrase": "Kill two birds with one stone",
+    "translation": "Убить двух зайцев одним выстрелом",
+    "exampleSentence": "I'll go to the market and the bank — kill two birds with one stone.",
+    "exampleTranslation": "Схожу на рынок и в банк — убью двух зайцев.",
+    "type": "idiom", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_27", "dayIndex": 27,
+    "phrase": "Turn down",
+    "translation": "Отказаться / убавить громкость",
+    "exampleSentence": "He turned down the job offer.",
+    "exampleTranslation": "Он отказался от предложения о работе.",
+    "type": "phrasal_verb", "difficulty": "B1"
+  },
+  {
+    "id": "phrase_28", "dayIndex": 28,
+    "phrase": "Let the cat out of the bag",
+    "translation": "Раскрыть секрет случайно",
+    "exampleSentence": "Tom let the cat out of the bag about the surprise.",
+    "exampleTranslation": "Том случайно раскрыл секрет о сюрпризе.",
+    "type": "idiom", "difficulty": "B2"
+  },
+  {
+    "id": "phrase_29", "dayIndex": 29,
+    "phrase": "Work out",
+    "translation": "Тренироваться / получиться / разрешиться",
+    "exampleSentence": "Everything worked out in the end.",
+    "exampleTranslation": "В конце концов всё разрешилось.",
+    "type": "phrasal_verb", "difficulty": "A2"
+  },
+  {
+    "id": "phrase_30", "dayIndex": 30,
+    "phrase": "Burn the midnight oil",
+    "translation": "Работать допоздна / жечь полночное масло",
+    "exampleSentence": "She burned the midnight oil to finish the project on time.",
+    "exampleTranslation": "Она работала допоздна, чтобы закончить проект вовремя.",
+    "type": "idiom", "difficulty": "B2"
+  }
+]
