@@ -18,7 +18,7 @@ struct ListeningView: View {
                 }
                 .padding(.horizontal, 18)
                 .padding(.top, 12)
-                .padding(.bottom, 32)
+                .padding(.bottom, 110)
             }
         }
         .navigationBarHidden(true)

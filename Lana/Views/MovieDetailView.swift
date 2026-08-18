@@ -17,7 +17,7 @@ struct MovieDetailView: View {
                     pageHeader
                     contentBody
                 }
-                .padding(.bottom, 40)
+                .padding(.bottom, 110)
             }
         }
         .navigationBarHidden(true)

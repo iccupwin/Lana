@@ -180,6 +180,7 @@ struct FreeTalkView: View {
         }
         .padding(.horizontal, 16)
         .padding(.vertical, 12)
+        .padding(.bottom, FloatingTabBarMetrics.clearance)
         .background(
             DarkDS.card.opacity(0.95)
                 .overlay(Rectangle().fill(DarkDS.border).frame(height: 1), alignment: .top)

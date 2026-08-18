@@ -209,7 +209,7 @@ struct SettingsView: View {
                     }
                 }
                 .padding(.horizontal, 20)
-                .padding(.bottom, 32)
+                .padding(.bottom, 110)
             }
         }
         .navigationBarHidden(true)

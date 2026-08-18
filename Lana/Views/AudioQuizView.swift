@@ -36,7 +36,7 @@ struct AudioQuizView: View {
                 }
             }
             .padding(.horizontal, 20)
-            .padding(.bottom, 60)
+            .padding(.bottom, 110)
         }
     }
 

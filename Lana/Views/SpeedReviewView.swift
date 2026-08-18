@@ -187,7 +187,7 @@ struct SpeedReviewView: View {
             }
             .buttonStyle(PressScaleStyle())
             .padding(.horizontal, 40)
-            .padding(.bottom, 60)
+            .padding(.bottom, FloatingTabBarMetrics.clearance + 16)
         }
     }
 

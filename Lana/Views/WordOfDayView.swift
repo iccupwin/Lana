@@ -22,7 +22,7 @@ struct WordOfDayView: View {
                     vocabularyCard
                 }
                 .padding(.horizontal, 20)
-                .padding(.bottom, 40)
+                .padding(.bottom, 110)
             }
         }
         .navigationBarHidden(true)

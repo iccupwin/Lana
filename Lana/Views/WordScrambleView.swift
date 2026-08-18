@@ -32,7 +32,7 @@ struct WordScrambleView: View {
                             lettersGrid
                         }
                         .padding(.horizontal, 20)
-                        .padding(.bottom, 40)
+                        .padding(.bottom, 110)
                     }
                 }
             }

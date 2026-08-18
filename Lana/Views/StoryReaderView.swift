@@ -38,7 +38,7 @@ struct StoryReaderView: View {
                     navigationButtons
                 }
                 .padding(20)
-                .padding(.bottom, 40)
+                .padding(.bottom, 110)
             }
         }
     }
@@ -172,6 +172,7 @@ struct StoryReaderView: View {
                     .fill(DarkDS.card)
                     .overlay(RoundedRectangle(cornerRadius: 24).strokeBorder(DarkDS.border, lineWidth: 1))
             )
+            .padding(.bottom, FloatingTabBarMetrics.clearance + 8)
         }
         .ignoresSafeArea(edges: .bottom)
         .onTapGesture { withAnimation { viewModel.selectedWord = nil } }

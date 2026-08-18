@@ -33,7 +33,7 @@ struct FillBlankView: View {
                             }
                         }
                         .padding(.horizontal, 20)
-                        .padding(.bottom, 40)
+                        .padding(.bottom, 110)
                     }
                 }
             }

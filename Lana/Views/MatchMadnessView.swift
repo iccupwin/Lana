@@ -42,7 +42,7 @@ struct MatchMadnessView: View {
                         legendDot(color: DarkDS.card, label: "English")
                         legendDot(color: Color(red: 0.22, green: 0.44, blue: 0.98).opacity(0.55), label: "Russian")
                     }
-                    .padding(.bottom, 36)
+                    .padding(.bottom, FloatingTabBarMetrics.clearance + 12)
                 }
             }
         }
